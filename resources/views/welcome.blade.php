@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>寂寞闪现日假猴</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -78,9 +78,10 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
-                    寂寞玩蛋去
-                </div>
+                {{--<div class="title m-b-md">
+                    寂寞玩蛋去!
+                </div>--}}
+                <img src="/images/wss.png" width="50%"/>
 
                 {{--<div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
